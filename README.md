@@ -13,3 +13,22 @@
 - 2019.09 ~ 2019.12SKT NUGU AI 스피커: 맞춤형 체크리스트 생성
 - 2020.01 ~ 2020.06 SSAFY: 부동산 거래 웹 사이트
 - 2020.07 ~ SSAFY: 검색&블로그 웹 사이트
+
+# SKILL
+### 언어 & etc
+1. Java
+2. JSP, Ajax, Servlet
+3. MySQL, MariaDb
+4. JavaScript, HTML, CSS, JQuery
+5. Vue
+6. Python
+7. C++
+8. C
+9. PHP
+10. Json, XML
+### 프레임워크
+1. Spring MVC, Spring Boot
+2. Node.js
+3. Django, Flask
+4. BootStrack
+5. 안드로이드
