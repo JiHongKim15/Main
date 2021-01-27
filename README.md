@@ -1,6 +1,6 @@
 # 자기소개
 ### 블로그
-honeywater97.tistory.com
+http://honeywater97.tistory.com/
 
 
 ### 학력
