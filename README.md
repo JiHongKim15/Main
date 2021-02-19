@@ -4,6 +4,8 @@ http://honeywater97.tistory.com/
 
 
 ### 학력
+- 2015.02 고등학교 졸업
+- 2015.03 컴퓨터 공학과 입학
 - 2020.02 컴퓨터 공학과 졸업
 ### 경력
 - 2018.07 ~ 2018.08 테르텐 웹 보안팀 QA 직무 인턴
@@ -17,33 +19,34 @@ http://honeywater97.tistory.com/
 - 2019.09 ~ 2019.12 SKT NUGU AI 스피커: 맞춤형 체크리스트 생성
 - 2020.01 ~ 2020.06.19 SSAFY: 부동산 거래 웹 사이트
 - 2020.07 ~ 2020.08.21 SSAFY: 취준생을 위한 검색&블로그 웹 사이트
+- 2021.01 ~            ㄷㅅㅅㄹㅅ 마이그레이션
 
 # 상장
 - 2019.11.05 졸업작품전시회 장려상
 - 2020.06.19 부동산 거래 웹 사이트 우수상
 
 # SKILL
-### 언어 & etc
+### 언어
 1. Java
 2. JSP, Ajax, Servlet
 3. MySQL, MariaDb
 4. JavaScript, HTML, CSS, JQuery
-5. Vue
+5. Node.js
 6. Python
 7. C++
 8. C
 9. PHP
 10. Json, XML
-### 프레임워크
+### 프레임워크 & etc
 1. Spring MVC, Spring Boot
-2. Node.js
+2. Vue.js
 3. Django, Flask
 4. BootStrap
 5. 안드로이드
 
 # 자격증
-- 정보처리기사
-- AWS SA Pro
+- 2020.12.31 정보처리기사
+- 2021.01.07 AWS SA Pro
 
 # 기술 경력서
 2018.07.02 테르텐
@@ -51,14 +54,3 @@ http://honeywater97.tistory.com/
 2020.09.07 베스핀글로벌
 
 # 1일 1커밋 까먹지말자!
-# 클라우드
-
-오늘의커밋..쉽니다...2234455
-왜안되징
-
-
-##### 해삐뉴이어 :smile:
-
-깃 작성해논거 올리는거 까먹은날..22
-
-정신없던 오늘 하ㅜㄹ..
