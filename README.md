@@ -1,4 +1,4 @@
-깃! 하기
+매우 바쁜 그런날,,, 깃! 하기
 # 자기소개
 ### 블로그  
 http://honeywater97.tistory.com/
