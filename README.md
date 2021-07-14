@@ -1,4 +1,4 @@
-청소
+이번주..이번주만...쉴게....ㅎ
 # 자기소개
 ### 블로그  
 http://honeywater97.tistory.com/
