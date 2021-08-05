@@ -33,12 +33,14 @@ http://honeywater97.tistory.com/
 2. JSP, Ajax, Servlet
 3. MySQL, MariaDb
 4. JavaScript, HTML, CSS, JQuery
-5. Node.js
-6. Python
-7. C++
-8. C
-9. PHP
-10. Json, XML
+
+블로그로 이전...
+6. Node.js
+7. Python
+8. C++
+9. C
+10. PHP
+11. Json, XML
 ### 프레임워크 & etc
 1. Spring MVC, Spring Boot
 2. Vue.js
