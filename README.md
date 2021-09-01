@@ -1,4 +1,4 @@
-기이잇
+
 # 자기소개
 ### 블로그  
 http://honeywater97.tistory.com/
