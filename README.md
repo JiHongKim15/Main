@@ -21,5 +21,4 @@ Spring Boot Vue.js Django, Flask BootStrap 안드로이드 자격증 2020.12.31 
 오늘같은날에도 까먹지 말아야
 
 
-ㅇㅑ근..
-이라니
+12월 31일 완!
