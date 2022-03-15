@@ -1,4 +1,4 @@
-자기소개 블로그 http://honeywater97.tistory.com/
+깃자기소개 블로그 http://honeywater97.tistory.com/
 
 학력 
 2015.02 고등학교 졸업
